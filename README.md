@@ -1,4 +1,5 @@
 # Detection-of-Anomalies-in-Ship-Trajectories
+# web link version 2.0 - https://detection-of-anomalies-in-ship-trajectories.streamlit.app/
 ## version 1.0 - https://github.com/sanatan0511/SIH2025-Samundra-Setu
 This is Samundra AI version 2.0 
 Included Featers :-
