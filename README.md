@@ -1,17 +1,73 @@
-# Detection-of-Anomalies-in-Ship-Trajectories
-# web link version 2.0 - https://detection-of-anomalies-in-ship-trajectories.streamlit.app/
-## version 1.0 - https://github.com/sanatan0511/SIH2025-Samundra-Setu
-This is Samundra AI version 2.0 
-Included Featers :-
-- Relies on clustering and anomaly detection to flag unusual maritime behavior.
-- Design LLM with featuresusing pretraned rules ,features scaling and all..
-- Also using unsupervised technique such as KMeans,DBSCAN,silhouttee and purity .
-- This is version 2.0 in future 2.1 and all do in future releases
-- Also we release feature release as soon as possible .
+🚢 Detection of Anomalies in Ship Trajectories – Samundra AI
+🌐 Web Application (Version 2.0) project Live Link
 
-Next version - version 3.0(release in future release) which includes 
-text based data to plot on map and give real enity present on map
+🔗 https://detection-of-anomalies-in-ship-trajectories.streamlit.app/
 
-Thank you
+📦 Previous Version (1.0 – GitHub) SIH BASED Project
 
-### if you have any such doubts please contact admin :- sanatansingh23@lpu.in
+🔗 https://github.com/sanatan0511/SIH2025-Samundra-Setu
+
+
+  About Data:
+  Data taken from official agro data using ftp to access it and it's life real world data
+
+  Steps to open github file:-
+  1. Download the zip file and unzip it
+  2. open project in vs code or go to vs code go to option  file  search for  open folder and click desired folder which contain project file
+  3. open terminal and delete venv file  and also see in file folder if having otherwise no need for modification
+  4. write command - "python -m venv venv"
+  5. Wait for some time once done write next command "venv/Scripts/activate"
+  6. then install required dir "pip install -r requirements.txt"
+  7. Then done just write last command "streamlit run app.py"
+  8. Congrats! it's Done your project is live in your local enviroment (if not seen just open broser i.e already open)
+     
+🔍 About the Project
+
+Samundra AI – Version 2.0 is an advanced maritime intelligence system designed to detect anomalous ship trajectories using unsupervised learning and rule-based intelligence. The system focuses on identifying unusual maritime behavior to enhance surveillance, safety, and situational awareness.
+
+✨ Key Features (Version 2.0)
+
+Detects anomalous ship movements using clustering and anomaly detection techniques
+
+Custom LLM design enhanced with:
+
+Pretrained rules
+
+Feature engineering and feature scaling
+
+Utilizes unsupervised learning algorithms, including:
+
+K-Means
+
+DBSCAN
+
+Silhouette Score
+
+Purity Metrics
+
+Interactive map-based visualization using real trajectory data
+
+Scalable architecture with continuous feature updates
+
+🔄 Versioning & Future Updates
+
+Current Release: Version 2.0
+
+Upcoming Minor Updates: Version 2.1+ (feature enhancements and optimizations)
+
+New features will be released incrementally and frequently
+
+🚀 Upcoming Release – Version 3.0 (Planned)
+
+Integration of text-based maritime data
+
+Real-time entity extraction
+
+Direct text-to-map plotting
+
+Enhanced situational intelligence with real-world maritime entities
+
+📬 Contact
+
+For queries, issues, or collaboration, please contact:
+📧 Admin: sanatansingh23@lpu.in
